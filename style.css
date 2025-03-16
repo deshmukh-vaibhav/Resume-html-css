@@ -1,0 +1,35 @@
+*{
+    margin-right: 1%;
+    margin-left: 1%;
+}
+#name{
+    display: flex;
+    justify-content: center;
+}
+#gmail-ph{
+    display: flex;
+    justify-content: center;
+    padding:15px;
+    white-space: nowrap;
+}
+#icons{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#left{
+    display: flex;
+    gap:5px;
+    white-space: nowrap;
+}
+#right{
+    display: flex;
+    gap: 5px;
+    white-space: nowrap;
+}
+#title{
+    font-weight: bold;
+}
+P{
+    text-align: justify;
+}
